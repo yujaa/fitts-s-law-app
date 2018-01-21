@@ -30,7 +30,7 @@ class TextInput:
             repeat_keys_initial_ms: ms until the keydowns get repeated when a key is not released
             repeat_keys_interval_ms: ms between to keydown-repeats if key is not released
         """
-
+ 
         # Text related vars:
         self.antialias = antialias
         self.text_color = text_color
